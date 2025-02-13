@@ -6974,6 +6974,9 @@ h4.panel-title a.collapsed:before {
 }
 
 @media (max-width: 576px) {
+  .custom-button{
+    margin-bottom: 40px;
+  }
   footer {
     padding-left: 0;
     padding-right: 0;
